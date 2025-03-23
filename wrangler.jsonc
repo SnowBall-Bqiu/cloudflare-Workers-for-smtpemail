@@ -1,0 +1,5 @@
+{
+  "name": "worker-email",
+  "compatibility_date": "2025-03-23",
+  "main": "workers.js"
+}
